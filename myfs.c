@@ -5,7 +5,7 @@
 	"Writing a FUSE Filesystem: a Tutorial"
  (http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/).
  ***
-	Which was then adapted by Alsdair Macindoe
+	Which was then adapted by Alasdair Macindoe
 */
 
 #define FUSE_USE_VERSION 26
